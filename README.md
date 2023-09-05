@@ -1,3 +1,4 @@
+![](https://github.com/lgrachov/superpose/blob/main/READMEHead.png?raw=true)[![View Full](https://github.com/lgrachov/superpose/blob/main/READMEHeadB.png?raw=true)]([https://](https://github.com/lgrachov/superpose/blob/main/README.md))
 # Superpose
 A little bit of some spice things into GitHub's flavored markdown. **Works with screen readers.**
 > Interactive, too.
@@ -51,3 +52,6 @@ A little bit of some spice things into GitHub's flavored markdown. **Works with 
 ```
 #### Result
 ![This is in beta, this means this is in development.](https://github.com/lgrachov/superpose/blob/main/BetaInfo.png?raw=true)
+### Badges
+UNFINISHED
+
