@@ -1,3 +1,5 @@
+<div class="gh"><h1>This does not work on GitHub. Use <code>vscode</code> instead.</h1><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
+
 [![View Full](https://github.com/lgrachov/superpose/blob/main/READMEHeadB.png?raw=true)]([https://](https://github.com/))
 <div>
 <style>
@@ -5,6 +7,7 @@
     .pe-origin {display: none;}
     .pe-nick {color: #9e9e9e;}
     .pe-mdot {}
+    .gh {display: none;}
     </style>
 <img  class="pe-avatar" style=" border-radius: 9999px;" src="https://avatars.githubusercontent.com/u/78234184?v=4" width="128" height="128">
 <h1><br>Leo Grachov</h1>
