@@ -63,3 +63,8 @@ A little bit of some spice things into GitHub's flavored markdown. **Works with 
 #### Result
 ![](https://github.com/lgrachov/superpose/blob/main/LabelP1.png?raw=true)
 ![Owner](https://github.com/lgrachov/superpose/blob/main/LabelO.png?raw=true)![](https://github.com/lgrachov/superpose/blob/main/LabelP2.png?raw=true)
+#### Variants
+`O` = Owner
+`C` = Contributor
+`A2` = Author
+`A` = Admin
