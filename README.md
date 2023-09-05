@@ -74,3 +74,11 @@ A little bit of some spice things into GitHub's flavored markdown. **Works with 
 ```
 #### Result
 ![](https://github.com/lgrachov/superpose/blob/main/READMEHead.png?raw=true)[![View Full](https://github.com/lgrachov/superpose/blob/main/READMEHeadB.png?raw=true)]([https://](https://github.com/lgrachov/superpose/blob/main/README.md))
+### H7
+![This will be soon deprecated!](https://github.com/lgrachov/superpose/blob/main/DeprWarn.png?raw=true)
+#### Code
+```md
+<p alt="h7 example" style="font-size: 7px;">h7 Example.</p>
+```
+#### Result
+<p alt="h7 example" style="font-size: 7px;">h7 Example.</p>
