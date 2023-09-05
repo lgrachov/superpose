@@ -68,3 +68,11 @@ A little bit of some spice things into GitHub's flavored markdown. **Works with 
 `C` = Contributor
 `A2` = Author
 `A` = Admin
+### Readme Head
+![This is in beta, this means this is in development.](https://github.com/lgrachov/superpose/blob/main/BetaInfo.png?raw=true)
+#### Code
+```md
+![](https://github.com/lgrachov/superpose/blob/main/READMEHead.png?raw=true)[![View Full](https://github.com/lgrachov/superpose/blob/main/READMEHeadB.png?raw=true)]([https://](https://github.com/lgrachov/superpose/blob/main/README.md))
+```
+#### Result
+![](https://github.com/lgrachov/superpose/blob/main/READMEHead.png?raw=true)[![View Full](https://github.com/lgrachov/superpose/blob/main/READMEHeadB.png?raw=true)]([https://](https://github.com/lgrachov/superpose/blob/main/README.md))
