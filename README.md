@@ -53,16 +53,14 @@ A little bit of some spice things into GitHub's flavored markdown. **Works with 
 #### Result
 ![This is in beta, this means this is in development.](https://github.com/lgrachov/superpose/blob/main/BetaInfo.png?raw=true)
 ### Badges
-**UNSUPPORTED SCREEN-READER**
+**UNSUPPORTED SCREEN-READER, EDIT ALT TEXT**
 ***
 #### Code
 ```md
-![](https://github.com/lgrachov/superpose/blob/main/LabelP1.png?raw=true)
-![Owner](https://github.com/lgrachov/superpose/blob/main/LabelO.png?raw=true)![](https://github.com/lgrachov/superpose/blob/main/LabelP2.png?raw=true)
+![](https://github.com/lgrachov/superpose/blob/main/LabelP1.png?raw=true)![Owner](https://github.com/lgrachov/superpose/blob/main/LabelO.png?raw=true)![](https://github.com/lgrachov/superpose/blob/main/LabelP2.png?raw=true)
 ```
 #### Result
-![](https://github.com/lgrachov/superpose/blob/main/LabelP1.png?raw=true)
-![Owner](https://github.com/lgrachov/superpose/blob/main/LabelO.png?raw=true)![](https://github.com/lgrachov/superpose/blob/main/LabelP2.png?raw=true)
+![](https://github.com/lgrachov/superpose/blob/main/LabelP1.png?raw=true)![Owner](https://github.com/lgrachov/superpose/blob/main/LabelO.png?raw=true)![](https://github.com/lgrachov/superpose/blob/main/LabelP2.png?raw=true)
 #### Variants
 `O` = Owner
 `C` = Contributor
